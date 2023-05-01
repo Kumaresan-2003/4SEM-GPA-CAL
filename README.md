@@ -5,7 +5,7 @@ This is just IT SEM 4 GPA calculator using html , css, javascript.
 
 #IT department 
 
-Preview Link :https://github.com/Kumaresan-2003/4SEM-GPA-CAL.git
+Preview Link :https://kumaresan-2003.github.io/4SEM-GPA-CAL/
 
 Check out your GPA 
 
